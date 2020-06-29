@@ -1,6 +1,6 @@
 ---
 layout: home
-title: It was working fine yesterday...
+title: Donkey Garage
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
