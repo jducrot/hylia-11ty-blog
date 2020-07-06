@@ -7,4 +7,4 @@ archiveButtonText: See all posts
 socialImage: ""
 ---
 
-The thoughts of Jean Ducrot on the interwebs
+I store my learnings in the Donkey Garage because life never stops teaching.
