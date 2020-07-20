@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-metaDesc: "",
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
