@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Donkey Garage
-metaDesc: ""
+title: Home
+metaDesc: "",
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ""
+socialImage: ''
 ---
 
 I store my learnings in the Donkey Garage because life never stops teaching.
