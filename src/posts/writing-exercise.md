@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Writing Exercise
+title: Palette Writers' Club Entry (11 July 2020)
 date: 2020-07-11T15:11:00.000Z
 tags:
   - writing
