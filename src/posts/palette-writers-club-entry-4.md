@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Palette Writers' Club Entry - 4
-date: 2020-10-09T12:31:51.433Z
+date: 2020-10-03T12:31:51.433Z
 tags:
   - writing
 ---
