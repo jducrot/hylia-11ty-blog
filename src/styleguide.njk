@@ -124,8 +124,8 @@ permalink: /styleguide/
               {{ textarea( "field-textarea-name", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
             </li>
             <li class="[ field-list__field-group ]">
-              {{ label("Select Label", "field-select-name") }}
-              {{ select( "select", [ "option 1", {label: "Option II", value: "option 2"} ], { required: true, options_before: ["prepended option"], options_after: ["appended option"], description: "Optional description." } ) }}
+              {{ label("Select Label", "select-name") }}
+              {{ select( "select-name",[ "option 1", {label: "Option II", value: "option 2"} ], { required: true, options_before: ["prepended option"], options_after: ["appended option"], description: "Optional description." } ) }}
             </li>
             <li class="[ field-list__field-group field-list__field-group--confirm ]">
               {{ confirm("Confirm this statement", "confirm") }}
