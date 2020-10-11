@@ -1,13 +1,13 @@
 {
+  "showThemeCredit": false,
+  "name": "Jean Ducrot",
+  "shortDesc": "Gatherings of thoughts on life, technology, and randomness",
+  "url": "https://jeanducrot.com",
   "authorEmail": "jean@jeanducrot.com",
   "authorHandle": "@jducrot",
   "authorName": "Jean Ducrot",
   "enableThirdPartyComments": false,
-  "faviconPath": "/images/favicon.ico",
-  "maxPostsPerPage": 1,
-  "name": "Jean Ducrot",
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "shortDesc": "Gatherings of thoughts on life, technology, and randomness",
-  "showThemeCredit": true,
-  "url": "https://jeanducrot.com"
+  "faviconPath": "/images/favicon.ico",
+  "maxPostsPerPage": 3
 }
