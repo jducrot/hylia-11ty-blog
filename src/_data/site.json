@@ -4,7 +4,7 @@
   "authorName": "Jean Ducrot",
   "enableThirdPartyComments": false,
   "faviconPath": "/images/favicon.ico",
-  "maxPostsPerPage": 1,
+  "maxPostsPerPage": 3,
   "name": "Jean Ducrot",
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "shortDesc": "Gatherings of thoughts on life, technology, and randomness",
