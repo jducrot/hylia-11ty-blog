@@ -16,7 +16,8 @@
     "semver": "^6.3.0",
     "slugify": "^1.4.5",
     "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb",
-    "xmlhttprequest-ssl": ">=1.6.2"
+    "xmlhttprequest-ssl": ">=1.6.2",
+    "socket.io-parser": ">=3.3.2"
   },
   "devDependencies": {
     "@erquhart/rollup-plugin-node-builtins": "^2.1.5",
